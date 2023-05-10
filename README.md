@@ -1,5 +1,5 @@
 # Mega-Man
-A smaller version of the well known game, Mega man. It was made with Java and OOP concepts.
+A smaller version of the well known game, Mega man. It was made with Java and OOP concepts using Libgdx.
 
 Here is a small video containing the character (mega-man) movements.
 
